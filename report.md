@@ -16,7 +16,7 @@
  Тестировалась функция распознавания ключей 
 # Результаты 
 1.	70% успешного тестирования
-2. несоответствие результатов при тестировании ключей в KeyValidator.class 	https://github.com/baturina/keys/issues/3#issue-753002589
-3. автозапуск приложения KeyValidator не выполнен 	https://github.com/baturina/keys/issues/4#issue-753006883
+2. [https://github.com/baturina/keys/issues/5#issue-755634099]
+3. [https://github.com/baturina/keys/issues/4#issue-753006883]
 # Общие рекомендации
 Приложение протестировано, несоответствие результатов в тестировании ключей
